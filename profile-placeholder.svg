@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A simple profile placeholder where a real photo can be inserted.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" rx="44" fill="url(#bg)"/>
+  <circle cx="360" cy="328" r="112" fill="#94a3b8"/>
+  <path d="M188 762c18-168 112-258 172-258s154 90 172 258" fill="#64748b"/>
+  <text x="360" y="835" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#334155">Insert Your Photo</text>
+</svg>
